@@ -5,7 +5,7 @@ function App() {
   const expense = [
     { title: "Care Insurance", amount: "Rs.1000", date: new Date(2022, 2, 28) },
     { title: "New TV", amount: "Rs.22000", date: new Date(2022, 3, 2) },
-    { title: "Mobile bill", amount: "Rs.666", date: new Date(2022, 4, 31) },
+    { title: "Mobile bill", amount: "Rs.1199", date: new Date(2022, 4, 31) },
   ];
 
   return (
